@@ -5,6 +5,12 @@ title: "Home"
 
 # Python for Meiji EPAS
 
+## github pages
+
+https://keitasumiya.github.io/pythonLabMeijiEPAS/
+
+
+
 ## トピック案
 概要
 - 環境構築 → バージョン管理 (GitHub) → Python 文法 → データ解析・可視化 → マルチメディア処理 → 数値計算・シミュレーション → 機械学習・AI → AI 開発手法 → 研究応用 の流れで、研究に必要な実践的スキルを段階的に習得できる構成

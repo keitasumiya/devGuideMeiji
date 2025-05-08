@@ -1,2 +1,2 @@
-# pythonLabMeijiEPAS
-Python workshop codes. 
+# Dev Guide Meiji
+Python workshop codes
